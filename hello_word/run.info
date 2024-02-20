@@ -1,0 +1,2 @@
+$ gcc main.c -o hello_word
+$ ./hello_word
