@@ -1,2 +1,2 @@
-$ gcc main.c -o endian
+$ gcc -o endian main.c endian.c
 $ ./endian
