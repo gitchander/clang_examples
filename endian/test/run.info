@@ -1,0 +1,2 @@
+$ gcc -o endian_test main.c ../endian.c
+$ ./endian_test
